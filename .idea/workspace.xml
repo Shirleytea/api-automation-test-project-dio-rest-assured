@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec90f714-7461-4a18-a7f4-f2df9f48c5f8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-automation-tests-challenge-rest-assured/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-automation-tests-challenge-rest-assured/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-automation-tests-challenge-rest-assured/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-automation-tests-challenge-rest-assured/src/main/java/Entities/Booking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-automation-tests-challenge-rest-assured/src/main/java/Entities/BookingDates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-automation-tests-challenge-rest-assured/src/main/java/Entities/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-automation-tests-challenge-rest-assured/src/test/java/BookingTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-automation-tests-challenge-rest-assured/src/test/resources/createBookingRequestSchema.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-automation-tests-challenge-rest-assured/src/test/resources/createBookingResponseSchema.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ec90f714-7461-4a18-a7f4-f2df9f48c5f8" name="Changes" comment="entrega final" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -149,11 +137,21 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="entrega final" />
+    <option name="LAST_COMMIT_MESSAGE" value="entrega final" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
